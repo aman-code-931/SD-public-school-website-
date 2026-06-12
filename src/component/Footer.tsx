@@ -38,12 +38,12 @@ const Footer: React.FC = () => {
 
             <div className="flex gap-3 items-center bg-white/5 p-3 rounded-lg border border-white/10">
               <Phone size={18} className="text-yellow-400" />
-              <span>Tel: 01145651887</span>
+              <span>Tel: 011-71367072</span>
             </div>
 
             <div className="flex gap-3 items-center bg-white/5 p-3 rounded-lg border border-white/10">
               <Phone size={18} className="text-yellow-400" />
-              <span>Mobile: +91 7011918254, +91 9711029497
+              <span>Mobile: +91 7011918354, +91 9711029497
 </span>
             </div>
 
